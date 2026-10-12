@@ -33,20 +33,3 @@
 *语言占比按 12 个原创仓库的代码字节数统计，不含 fork。*
 
 </div>
-
-### Selected work
-
-| Repo | What it is |
-| :-- | :-- |
-| [pywindnd](https://github.com/Dumbliidore/pywindnd) | Tkinter 拖拽组件：把文件拖进窗口即得到绝对路径 |
-| [pathManager](https://github.com/Dumbliidore/pathManager) | 按项目名与数据类型分类的服务器路径导航 GUI |
-| [profiler-flask](https://github.com/Dumbliidore/profiler-flask) | Flask 性能剖析实验 |
-| [DjangTest](https://github.com/Dumbliidore/DjangTest) | Django + xadmin 在线教育平台 |
-| [MyDjangoBlog](https://github.com/Dumbliidore/MyDjangoBlog) | Django 博客（`MyBlog/` 内含 manage.py、blog、templates） |
-| [vue-mini-zhihudaily](https://github.com/Dumbliidore/vue-mini-zhihudaily) | Vue 知乎日报小程序 |
-
-<div align="center">
-
-![profile views](https://komarev.com/ghpvc/?username=Dumbliidore&style=flat-square&label=PROFILE+VIEWS&color=8250DF)
-
-</div>
