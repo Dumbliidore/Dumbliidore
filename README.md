@@ -1,12 +1,14 @@
 <div align="center">
 
-![Dumbliidore](./assets/header.svg)
+<img src="https://avatars.githubusercontent.com/u/35067857?v=4" width="104" alt="Dumbliidore" />
+
+## Dumbliidore
+
+![focus](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&color=1F6FEB&center=true&vCenter=true&multiline=true&width=640&height=44&lines=Python%20%C2%B7%20Flask%20%C2%B7%20Django;Tkinter%20%E6%A1%8C%E9%9D%A2%E5%B0%8F%E5%B7%A5%E5%85%B7;Vue%20%C2%B7%20%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%89%8D%E7%AB%AF;Guangzhou%20%C2%B7%20since%202018)
 
 [![followers](https://img.shields.io/github/followers/Dumbliidore?style=for-the-badge&logo=github&logoColor=white&color=121212)](https://github.com/Dumbliidore?tab=followers)&nbsp;
 [![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDumbliidore&query=%24.public_repos&label=repos&color=8250DF&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dumbliidore?tab=repositories)&nbsp;
 ![Guangzhou](https://img.shields.io/badge/Guangzhou-8250DF?style=for-the-badge&logo=openstreetmap&logoColor=white)
-
-![focus](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&color=1F6FEB&center=true&vCenter=true&multiline=true&width=640&height=44&lines=Python%20%C2%B7%20Flask%20%C2%B7%20Django;Tkinter%20%E6%A1%8C%E9%9D%A2%E5%B0%8F%E5%B7%A5%E5%85%B7;Vue%20%C2%B7%20%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%89%8D%E7%AB%AF;Guangzhou%20%C2%B7%20since%202018)
 
 ### Tech
 
@@ -28,9 +30,12 @@
 
 ![contribution heatmap](https://ghchart.rshah.org/1F6FEB/Dumbliidore)
 
-![language share](./assets/langs.svg)
+![HTML](https://img.shields.io/badge/HTML-57.9%25-E34F26?style=for-the-badge)&nbsp;
+![Python](https://img.shields.io/badge/Python-21.9%25-3776AB?style=for-the-badge)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-11.3%25-F7DF1E?style=for-the-badge&logoColor=000)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-8.4%25-1572B6?style=for-the-badge)
 
-*按 12 个原创仓库的代码字节数统计，不含 fork。*
+*语言占比按 12 个原创仓库的代码字节数统计，不含 fork。*
 
 </div>
 
@@ -42,13 +47,11 @@
 | [pathManager](https://github.com/Dumbliidore/pathManager) | 按项目名与数据类型分类的服务器路径导航 GUI |
 | [profiler-flask](https://github.com/Dumbliidore/profiler-flask) | Flask 性能剖析实验 |
 | [DjangTest](https://github.com/Dumbliidore/DjangTest) | Django + xadmin 在线教育平台 |
-| [MyDjangoBlog](https://github.com/Dumbliidore/MyDjangoBlog) | Django 博客 |
+| [MyDjangoBlog](https://github.com/Dumbliidore/MyDjangoBlog) | Django 博客（`MyBlog/` 内含 manage.py、blog、templates） |
 | [vue-mini-zhihudaily](https://github.com/Dumbliidore/vue-mini-zhihudaily) | Vue 知乎日报小程序 |
 
 <div align="center">
 
 ![profile views](https://komarev.com/ghpvc/?username=Dumbliidore&style=flat-square&label=PROFILE+VIEWS&color=8250DF)
-
-![footer](./assets/footer.svg)
 
 </div>
