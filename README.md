@@ -4,8 +4,6 @@
 
 ## Dumbliidore
 
-![focus](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&color=1F6FEB&center=true&vCenter=true&multiline=true&width=640&height=44&lines=Python%20%C2%B7%20Flask%20%C2%B7%20Django;Tkinter%20%E6%A1%8C%E9%9D%A2%E5%B0%8F%E5%B7%A5%E5%85%B7;Vue%20%C2%B7%20%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%89%8D%E7%AB%AF;Guangzhou%20%C2%B7%20since%202018)
-
 [![followers](https://img.shields.io/github/followers/Dumbliidore?style=for-the-badge&logo=github&logoColor=white&color=121212)](https://github.com/Dumbliidore?tab=followers)&nbsp;
 [![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDumbliidore&query=%24.public_repos&label=repos&color=8250DF&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dumbliidore?tab=repositories)&nbsp;
 ![Guangzhou](https://img.shields.io/badge/Guangzhou-8250DF?style=for-the-badge&logo=openstreetmap&logoColor=white)
@@ -13,13 +11,10 @@
 ### Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-CE420C?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Metrics
