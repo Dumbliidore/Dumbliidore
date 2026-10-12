@@ -1,63 +1,40 @@
-<!--
-  个人主页仓库：仓库名必须与用户名相同（Dumbliidore/Dumbliidore），README 才会显示在主页顶部。
--->
-
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/35067857?v=4" width="96" alt="Dumbliidore" />
+![Dumbliidore](./assets/header.svg)
 
-### Dumbliidore
+[![followers](https://img.shields.io/github/followers/Dumbliidore?style=for-the-badge&logo=github&logoColor=white&color=121212)](https://github.com/Dumbliidore?tab=followers)&nbsp;
+[![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDumbliidore&query=%24.public_repos&label=repos&color=8250DF&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dumbliidore?tab=repositories)&nbsp;
+![Guangzhou](https://img.shields.io/badge/Guangzhou-8250DF?style=for-the-badge&logo=openstreetmap&logoColor=white)
 
-Guangzhou · 2018
+![focus](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&color=1F6FEB&center=true&vCenter=true&multiline=true&width=640&height=44&lines=Python%20%C2%B7%20Flask%20%C2%B7%20Django;Tkinter%20%E6%A1%8C%E9%9D%A2%E5%B0%8F%E5%B7%A5%E5%85%B7;Vue%20%C2%B7%20%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%89%8D%E7%AB%AF;Guangzhou%20%C2%B7%20since%202018)
 
-<p>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDumbliidore&query=%24.public_repos&label=public%20repos&color=1F6FEB&style=flat-square&labelColor=24292F" alt="public repos" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDumbliidore&query=%24.followers&label=followers&color=1F6FEB&style=flat-square&labelColor=24292F" alt="followers" />
-</p>
+### Tech
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-CE420C?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+### Metrics
 
-<div align="center">
+![activity card](https://streak-stats.demolab.com?user=Dumbliidore&hide_border=true&background=00000000&stroke=484F58&ring=1F6FEB&fire=1F6FEB&currStreakNum=1F6FEB&sideNums=1F6FEB&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681)
 
-<img src="https://streak-stats.demolab.com?user=Dumbliidore&hide_border=true&background=00000000&stroke=484F58&ring=1F6FEB&fire=1F6FEB&currStreakNum=1F6FEB&sideNums=1F6FEB&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681" alt="activity card" />
+### Charts
 
-</div>
+![contribution heatmap](https://ghchart.rshah.org/1F6FEB/Dumbliidore)
 
-## Charts
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/1F6FEB/Dumbliidore" alt="contribution heatmap" width="720" />
-
-</div>
-
-| Language | Bytes |
-| :-- | --: |
-| <img src="https://img.shields.io/badge/HTML-57.9%25-E34F26?style=flat-square" alt="HTML" /> | 3.4 MB |
-| <img src="https://img.shields.io/badge/Python-21.9%25-3776AB?style=flat-square" alt="Python" /> | 1.3 MB |
-| <img src="https://img.shields.io/badge/JavaScript-11.3%25-F7DF1E?style=flat-square&logoColor=000" alt="JavaScript" /> | 661 KB |
-| <img src="https://img.shields.io/badge/CSS-8.4%25-1572B6?style=flat-square" alt="CSS" /> | 491 KB |
+![language share](./assets/langs.svg)
 
 *按 12 个原创仓库的代码字节数统计，不含 fork。*
 
-## Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-
 </div>
 
-## Selected work
+### Selected work
 
 | Repo | What it is |
 | :-- | :-- |
@@ -65,10 +42,13 @@ Guangzhou · 2018
 | [pathManager](https://github.com/Dumbliidore/pathManager) | 按项目名与数据类型分类的服务器路径导航 GUI |
 | [profiler-flask](https://github.com/Dumbliidore/profiler-flask) | Flask 性能剖析实验 |
 | [DjangTest](https://github.com/Dumbliidore/DjangTest) | Django + xadmin 在线教育平台 |
+| [MyDjangoBlog](https://github.com/Dumbliidore/MyDjangoBlog) | Django 博客 |
 | [vue-mini-zhihudaily](https://github.com/Dumbliidore/vue-mini-zhihudaily) | Vue 知乎日报小程序 |
 
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dumbliidore&style=flat-square&label=profile%20views&color=6E7681" alt="profile views" />
+
+![profile views](https://komarev.com/ghpvc/?username=Dumbliidore&style=flat-square&label=PROFILE+VIEWS&color=8250DF)
+
+![footer](./assets/footer.svg)
+
 </div>
